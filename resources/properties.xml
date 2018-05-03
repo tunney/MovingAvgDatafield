@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<resources>
+
+	<properties>
+		<property id="duration_prop" type="number">240</property>
+		<property id="lapreset_prop" type="boolean">true</property>
+	</properties>
+
+	<strings>
+		<string id="duration_title">Duration(sec)</string>
+		<string id="lapreset_title">Reset on lap</string>
+	</strings>
+
+	<settings>
+		<setting propertyKey="@Properties.duration_prop" title="@Strings.duration_title">
+			<settingConfig type="numeric" />
+		</setting>
+		<setting propertyKey="@Properties.lapreset_prop" title="@Strings.lapreset_title">
+			<settingConfig type="boolean" />
+		</setting>
+	</settings>
+</resources>

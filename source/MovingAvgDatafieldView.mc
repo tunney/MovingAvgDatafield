@@ -94,14 +94,15 @@ class MovingAvgDatafieldView extends Ui.DataField {
 	                
 	                displayValue = tempSum/div;
 	                
-	      /*          System.println("time: " + info.timerTime);
+	                System.println("time: " + info.timerTime);
 	                System.println("tempsum: " + tempSum);
 	                System.println("avg: " +info.averagePower);
 	                System.println("power: " + power);
 	                System.println("value: " + displayValue);
 	                System.println("pointer: " + pointer);
-	                System.println("rolling: " + pointer%240);
-	                System.println("--------"); */
+	                System.println("rolling: " + rolled);
+	                System.println("div: " + div);
+	                System.println("--------"); 
 	            } 
 	        }
         }
