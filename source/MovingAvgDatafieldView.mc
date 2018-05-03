@@ -32,7 +32,7 @@ class MovingAvgDatafieldView extends Ui.DataField {
             {:mesgType=>FitContributor.MESG_TYPE_RECORD, :units=>"B"}
         );
 
-        mvapField.setData(0.0);
+        mvapField.setData(0);
     }
 
 	function onTimerLap(){
