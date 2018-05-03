@@ -3,43 +3,59 @@ using Toybox.Graphics as Gfx;
 
 class MovingAvgDatafieldView extends Ui.DataField {
 
-    hidden var mValue;
-
+    hidden var displayValue;
+	hidden var rollingArray;
+	hidden var pointer;
+	hidden var rolled;
+	hidden var duration;
+	hidden var resetOnLap;
+		
     function initialize() {
         DataField.initialize();
-        mValue = 0.0f;
+        
+        duration = 240;
+        resetOnLap = true;
+        
+        rollingArray = new[duration];
+        displayValue = 0;
+        pointer = 0;
+        rolled = false;
     }
 
-    // Set your layout here. Anytime the size of obscurity of
-    // the draw context is changed this will be called.
+	function onTimerLap(){
+		if(resetOnLap){
+			pointer = 0;
+			System.println("reset on lap");
+			rollingArray = new[duration];
+			rolled = false;
+		}
+	}
+	
     function onLayout(dc) {
         var obscurityFlags = DataField.getObscurityFlags();
 
-        // Top left quadrant so we'll use the top left layout
         if (obscurityFlags == (OBSCURE_TOP | OBSCURE_LEFT)) {
             View.setLayout(Rez.Layouts.TopLeftLayout(dc));
-
-        // Top right quadrant so we'll use the top right layout
         } else if (obscurityFlags == (OBSCURE_TOP | OBSCURE_RIGHT)) {
             View.setLayout(Rez.Layouts.TopRightLayout(dc));
-
-        // Bottom left quadrant so we'll use the bottom left layout
         } else if (obscurityFlags == (OBSCURE_BOTTOM | OBSCURE_LEFT)) {
             View.setLayout(Rez.Layouts.BottomLeftLayout(dc));
-
-        // Bottom right quadrant so we'll use the bottom right layout
         } else if (obscurityFlags == (OBSCURE_BOTTOM | OBSCURE_RIGHT)) {
             View.setLayout(Rez.Layouts.BottomRightLayout(dc));
-
-        // Use the generic, centered layout
         } else {
             View.setLayout(Rez.Layouts.MainLayout(dc));
             var labelView = View.findDrawableById("label");
-            labelView.locY = labelView.locY - 16;
+            labelView.locY = labelView.locY - 26;
             var valueView = View.findDrawableById("value");
             valueView.locY = valueView.locY + 7;
         }
 
+		if (getBackgroundColor() == Gfx.COLOR_BLACK) {
+            View.findDrawableById("label").setColor(Gfx.COLOR_WHITE);
+        } else {
+        	View.findDrawableById("label").setColor(Gfx.COLOR_BLACK);
+        }
+        
         View.findDrawableById("label").setText(Rez.Strings.label);
         return true;
     }
@@ -50,12 +66,44 @@ class MovingAvgDatafieldView extends Ui.DataField {
     // guarantee that compute() will be called before onUpdate().
     function compute(info) {
         // See Activity.Info in the documentation for available information.
-        if(info has :currentHeartRate){
-            if(info.currentHeartRate != null){
-                mValue = info.currentHeartRate;
-            } else {
-                mValue = 0.0f;
-            }
+       
+       	var mTime;
+       	var power;
+       	
+       	if(info.timerState == Activity.TIMER_STATE_ON){
+	        if(info has :currentPower){
+	        	if(info.currentPower != null){
+	                power = info.currentPower;
+	                rollingArray[pointer % duration] = power;
+	                pointer ++;
+	                if(pointer > duration){
+	                	pointer = 0;
+	                	rolled = true;
+	                } 
+	                
+	                var tempSum = 0;
+	                for (var i = 0; i < rollingArray.size(); i++) {
+	                	if(rollingArray[i] != null){
+	                		tempSum += rollingArray[i];
+	                	}
+	                }
+	                var div = duration;
+	                if(!rolled){
+	                	div = pointer;
+	                }
+	                
+	                displayValue = tempSum/div;
+	                
+	      /*          System.println("time: " + info.timerTime);
+	                System.println("tempsum: " + tempSum);
+	                System.println("avg: " +info.averagePower);
+	                System.println("power: " + power);
+	                System.println("value: " + displayValue);
+	                System.println("pointer: " + pointer);
+	                System.println("rolling: " + pointer%240);
+	                System.println("--------"); */
+	            } 
+	        }
         }
     }
 
@@ -64,15 +112,17 @@ class MovingAvgDatafieldView extends Ui.DataField {
     function onUpdate(dc) {
         // Set the background color
         View.findDrawableById("Background").setColor(getBackgroundColor());
-
+        
         // Set the foreground color and value
         var value = View.findDrawableById("value");
         if (getBackgroundColor() == Gfx.COLOR_BLACK) {
             value.setColor(Gfx.COLOR_WHITE);
+            View.findDrawableById("label").setColor(Gfx.COLOR_WHITE);
         } else {
             value.setColor(Gfx.COLOR_BLACK);
+        	View.findDrawableById("label").setColor(Gfx.COLOR_BLACK);
         }
-        value.setText(mValue.format("%.2f"));
+        value.setText(displayValue.format("%.0f"));
 
         // Call parent's onUpdate(dc) to redraw the layout
         View.onUpdate(dc);
