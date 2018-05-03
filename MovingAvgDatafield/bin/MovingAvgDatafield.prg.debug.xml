@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="10" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="14" pc="268435484" symbol="onStop"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="18" pc="268435489" symbol="getInitialView"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="19" pc="268435493" symbol="getInitialView"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldBackground.mc" lineNum="9" pc="268435531" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldBackground.mc" lineNum="10" pc="268435535" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldBackground.mc" lineNum="14" pc="268435556" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldBackground.mc" lineNum="17" pc="268435577" symbol="setColor"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldBackground.mc" lineNum="18" pc="268435581" symbol="setColor"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldBackground.mc" lineNum="21" pc="268435592" symbol="draw"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldBackground.mc" lineNum="22" pc="268435596" symbol="draw"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldBackground.mc" lineNum="23" pc="268435628" symbol="draw"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="8" pc="268435641" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="9" pc="268435645" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="10" pc="268435663" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="15" pc="268435677" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="16" pc="268435681" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="19" pc="268435700" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="20" pc="268435723" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="23" pc="268435769" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="24" pc="268435792" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="27" pc="268435838" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="28" pc="268435861" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="31" pc="268435907" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="32" pc="268435930" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="36" pc="268435976" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="37" pc="268436019" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="38" pc="268436043" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="39" pc="268436065" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="40" pc="268436089" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="43" pc="268436111" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="44" pc="268436163" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="51" pc="268436167" symbol="compute"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="53" pc="268436171" symbol="compute"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="54" pc="268436182" symbol="compute"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="55" pc="268436195" symbol="compute"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="57" pc="268436214" symbol="compute"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="64" pc="268436231" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="66" pc="268436235" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="69" pc="268436278" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="70" pc="268436302" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="71" pc="268436329" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="73" pc="268436356" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="75" pc="268436380" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="78" pc="268436414" symbol="onUpdate"/>
+<entry filename="Rez" lineNum="19" pc="268436435" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="23" pc="268436447" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="24" pc="268436471" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="25" pc="268436634" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="26" pc="268436659" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="27" pc="268436711" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="28" pc="268436757" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="29" pc="268436920" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="30" pc="268436945" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="31" pc="268436997" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="34" pc="268437043" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="43" pc="268437081" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="47" pc="268437093" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="48" pc="268437117" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="49" pc="268437250" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="52" pc="268437383" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="61" pc="268437421" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="65" pc="268437433" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="66" pc="268437457" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="67" pc="268437590" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="70" pc="268437723" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="79" pc="268437761" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="83" pc="268437773" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="84" pc="268437797" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="85" pc="268437930" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="88" pc="268438063" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="97" pc="268438101" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="101" pc="268438113" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="102" pc="268438137" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="103" pc="268438270" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="106" pc="268438403" symbol="BottomRightLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="16" method="true" symbol="TopLeftLayout"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="10" object="true" symbol="MovingAvgDatafieldView"/>
+<entry field="true" id="8389138" symbol="label"/>
+<entry id="18" method="true" symbol="BottomLeftLayout"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="15" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="8389130" symbol="mColor"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry field="true" id="11" symbol="mValue"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="20" symbol="AppName"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="9" object="true" symbol="MovingAvgDatafieldApp"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="17" method="true" symbol="TopRightLayout"/>
+<entry field="true" id="8388747" symbol="currentHeartRate"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="19" method="true" symbol="BottomRightLayout"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435576" name="dictionary" stackId="1" startPc="268435535"/>
+<entry endPc="268435592" name="color" stackId="1" startPc="268435577"/>
+<entry endPc="268435641" name="dc" stackId="1" startPc="268435592"/>
+<entry endPc="268436111" name="valueView" stackId="4" startPc="268435976"/>
+<entry endPc="268436111" name="labelView" stackId="3" startPc="268435976"/>
+<entry endPc="268436166" name="obscurityFlags" stackId="2" startPc="268435681"/>
+<entry endPc="268436167" name="dc" stackId="1" startPc="268435677"/>
+<entry endPc="268436231" name="info" stackId="1" startPc="268436167"/>
+<entry endPc="268436434" name="value" stackId="2" startPc="268436235"/>
+<entry endPc="268436435" name="dc" stackId="1" startPc="268436231"/>
+<entry endPc="268437080" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268436447"/>
+<entry endPc="268437080" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268436447"/>
+<entry endPc="268437080" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268436447"/>
+<entry endPc="268437080" name="rez_cmp_local_custom_drawable_U3PTP0U3OOJENFG545RY" stackId="2" startPc="268436447"/>
+<entry endPc="268437080" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268436447"/>
+<entry endPc="268437081" name="dc" stackId="1" startPc="268436435"/>
+<entry endPc="268437420" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437093"/>
+<entry endPc="268437420" name="rez_cmp_local_custom_drawable_NZXV3KX1HDUA2L60BNRU" stackId="2" startPc="268437093"/>
+<entry endPc="268437420" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437093"/>
+<entry endPc="268437421" name="dc" stackId="1" startPc="268437081"/>
+<entry endPc="268437760" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437433"/>
+<entry endPc="268437760" name="rez_cmp_local_custom_drawable_1OJZ47AHKE4U0HDWSEGK" stackId="2" startPc="268437433"/>
+<entry endPc="268437760" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437433"/>
+<entry endPc="268437761" name="dc" stackId="1" startPc="268437421"/>
+<entry endPc="268438100" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437773"/>
+<entry endPc="268438100" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437773"/>
+<entry endPc="268438100" name="rez_cmp_local_custom_drawable_UHBP1QVN3N6ZGLZVLDQS" stackId="2" startPc="268437773"/>
+<entry endPc="268438101" name="dc" stackId="1" startPc="268437761"/>
+<entry endPc="268438440" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438113"/>
+<entry endPc="268438440" name="rez_cmp_local_custom_drawable_XTWK1YETDFSYEJRW8CNP" stackId="2" startPc="268438113"/>
+<entry endPc="268438440" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438113"/>
+<entry endPc="268438441" name="dc" stackId="1" startPc="268438101"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="MovingAvgDatafieldApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="MovingAvgDatafieldApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="MovingAvgDatafieldApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="MovingAvgDatafieldApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setColor" parent="Background">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MovingAvgDatafieldView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="MovingAvgDatafieldView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="MovingAvgDatafieldView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="MovingAvgDatafieldView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="TopLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="TopRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="BottomLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="BottomRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="253" parentId="globals" symbolId="MovingAvgDatafieldView" type="class"/>
+<dataEntry offset="332" parentId="globals" symbolId="MovingAvgDatafieldApp" type="class"/>
+<dataEntry offset="403" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="482" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="521" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="552" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="583" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="614" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="685" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+</debugInfo>
