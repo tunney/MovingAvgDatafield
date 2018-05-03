@@ -9,142 +9,147 @@
 <entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldBackground.mc" lineNum="21" pc="268435517" symbol="draw"/>
 <entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldBackground.mc" lineNum="22" pc="268435521" symbol="draw"/>
 <entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldBackground.mc" lineNum="23" pc="268435553" symbol="draw"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="13" pc="268435566" symbol="initialize"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="14" pc="268435570" symbol="initialize"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="16" pc="268435588" symbol="initialize"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="17" pc="268435627" symbol="initialize"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="19" pc="268435666" symbol="initialize"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="20" pc="268435683" symbol="initialize"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="21" pc="268435696" symbol="initialize"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="22" pc="268435709" symbol="initialize"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="27" pc="268435720" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="28" pc="268435724" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="29" pc="268435735" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="30" pc="268435748" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="31" pc="268435771" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="32" pc="268435788" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="36" pc="268435802" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="37" pc="268435806" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="39" pc="268435825" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="40" pc="268435848" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="41" pc="268435894" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="42" pc="268435917" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="43" pc="268435963" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="44" pc="268435986" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="45" pc="268436032" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="46" pc="268436055" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="48" pc="268436101" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="49" pc="268436144" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="50" pc="268436168" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="51" pc="268436190" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="52" pc="268436214" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="55" pc="268436236" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="56" pc="268436263" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="58" pc="268436310" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="61" pc="268436354" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="62" pc="268436406" symbol="onLayout"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="69" pc="268436410" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="72" pc="268436414" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="73" pc="268436414" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="75" pc="268436414" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="76" pc="268436440" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="77" pc="268436451" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="78" pc="268436464" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="79" pc="268436474" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="80" pc="268436502" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="81" pc="268436521" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="82" pc="268436541" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="83" pc="268436554" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="86" pc="268436567" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="87" pc="268436574" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="88" pc="268436604" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="89" pc="268436620" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="92" pc="268436652" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="93" pc="268436662" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="94" pc="268436674" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="97" pc="268436687" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="99" pc="268436700" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="100" pc="268436732" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="101" pc="268436758" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="102" pc="268436790" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="103" pc="268436816" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="104" pc="268436848" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="105" pc="268436880" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="106" pc="268436912" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="107" pc="268436938" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="108" pc="268436970" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="109" pc="268437002" symbol="compute"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="117" pc="268437035" symbol="onUpdate"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="119" pc="268437039" symbol="onUpdate"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="122" pc="268437082" symbol="onUpdate"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="123" pc="268437106" symbol="onUpdate"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="124" pc="268437133" symbol="onUpdate"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="125" pc="268437157" symbol="onUpdate"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="127" pc="268437204" symbol="onUpdate"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="128" pc="268437228" symbol="onUpdate"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="130" pc="268437272" symbol="onUpdate"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="132" pc="268437306" symbol="onUpdate"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="5" pc="268437327" symbol="initialize"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="6" pc="268437331" symbol="initialize"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="10" pc="268437350" symbol="onStart"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="14" pc="268437355" symbol="onStop"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="18" pc="268437360" symbol="getInitialView"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="19" pc="268437364" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="21" pc="268437402" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="25" pc="268437414" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="26" pc="268437438" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="27" pc="268437601" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="28" pc="268437626" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="29" pc="268437678" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="30" pc="268437724" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="31" pc="268437887" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="32" pc="268437912" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="33" pc="268437964" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="36" pc="268438010" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="45" pc="268438048" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="49" pc="268438060" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="50" pc="268438084" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="51" pc="268438217" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="54" pc="268438350" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="63" pc="268438388" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="67" pc="268438400" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="68" pc="268438424" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="69" pc="268438557" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="72" pc="268438690" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="81" pc="268438728" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="85" pc="268438740" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="86" pc="268438764" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="87" pc="268438897" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="90" pc="268439030" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="99" pc="268439068" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="103" pc="268439080" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="104" pc="268439104" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="105" pc="268439237" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="108" pc="268439370" symbol="BottomRightLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="17" pc="268435566" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="18" pc="268435570" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="20" pc="268435588" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="21" pc="268435627" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="23" pc="268435666" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="24" pc="268435683" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="25" pc="268435696" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="26" pc="268435709" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="28" pc="268435719" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="35" pc="268435811" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="38" pc="268435835" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="39" pc="268435839" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="40" pc="268435850" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="41" pc="268435863" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="42" pc="268435886" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="43" pc="268435903" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="47" pc="268435917" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="48" pc="268435921" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="50" pc="268435940" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="51" pc="268435963" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="52" pc="268436009" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="53" pc="268436032" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="54" pc="268436078" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="55" pc="268436101" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="56" pc="268436147" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="57" pc="268436170" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="59" pc="268436216" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="60" pc="268436259" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="61" pc="268436283" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="62" pc="268436305" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="63" pc="268436329" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="66" pc="268436351" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="67" pc="268436378" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="69" pc="268436425" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="72" pc="268436469" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="73" pc="268436521" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="80" pc="268436525" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="83" pc="268436529" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="84" pc="268436529" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="86" pc="268436529" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="87" pc="268436555" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="88" pc="268436566" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="89" pc="268436579" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="90" pc="268436589" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="91" pc="268436617" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="92" pc="268436636" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="93" pc="268436656" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="94" pc="268436669" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="97" pc="268436682" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="98" pc="268436689" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="99" pc="268436719" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="100" pc="268436735" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="103" pc="268436767" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="104" pc="268436777" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="105" pc="268436789" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="108" pc="268436802" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="109" pc="268436815" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="111" pc="268436841" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="112" pc="268436873" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="113" pc="268436899" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="114" pc="268436931" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="115" pc="268436957" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="116" pc="268436989" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="117" pc="268437021" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="118" pc="268437053" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="119" pc="268437079" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="120" pc="268437111" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="121" pc="268437143" symbol="compute"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="129" pc="268437176" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="131" pc="268437180" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="134" pc="268437223" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="135" pc="268437247" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="136" pc="268437274" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="137" pc="268437298" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="139" pc="268437345" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="140" pc="268437369" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="142" pc="268437413" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="144" pc="268437447" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="5" pc="268437468" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="6" pc="268437472" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="10" pc="268437491" symbol="onStart"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="14" pc="268437496" symbol="onStop"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="18" pc="268437501" symbol="getInitialView"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="19" pc="268437505" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="21" pc="268437543" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="25" pc="268437555" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="26" pc="268437579" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="27" pc="268437742" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="28" pc="268437767" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="29" pc="268437819" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="30" pc="268437865" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="31" pc="268438028" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="32" pc="268438053" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="33" pc="268438105" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268438151" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="45" pc="268438189" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="49" pc="268438201" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="50" pc="268438225" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="51" pc="268438358" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="54" pc="268438491" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="63" pc="268438529" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="67" pc="268438541" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="68" pc="268438565" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="69" pc="268438698" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="72" pc="268438831" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="81" pc="268438869" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="85" pc="268438881" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="86" pc="268438905" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="87" pc="268439038" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="90" pc="268439171" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="99" pc="268439209" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="103" pc="268439221" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="104" pc="268439245" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="105" pc="268439378" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="108" pc="268439511" symbol="BottomRightLayout"/>
 </pcToLineNum>
 <symbolTable>
+<entry field="true" id="16" symbol="mvapField"/>
 <entry field="true" id="12" symbol="rollingArray"/>
 <entry field="true" id="15" symbol="resetOnLap"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
-<entry field="true" id="25" symbol="duration_title"/>
-<entry id="20" method="true" symbol="TopLeftLayout"/>
+<entry field="true" id="27" symbol="duration_title"/>
+<entry id="22" method="true" symbol="TopLeftLayout"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="9" object="true" symbol="MovingAvgDatafieldView"/>
 <entry field="true" id="8389138" symbol="label"/>
-<entry id="22" method="true" symbol="BottomLeftLayout"/>
+<entry id="24" method="true" symbol="BottomLeftLayout"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389068" method="true" symbol="draw"/>
-<entry id="19" method="true" symbol="MainLayout"/>
+<entry id="8389849" symbol="units"/>
+<entry id="21" method="true" symbol="MainLayout"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry field="true" id="8389130" symbol="mColor"/>
 <entry id="8389131" method="true" symbol="setColor"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="26" symbol="AppName"/>
+<entry field="true" id="28" symbol="AppName"/>
 <entry field="true" id="8388935" method="true" symbol="duration"/>
 <entry id="8390146" module="true" object="true" symbol="Background"/>
-<entry field="true" id="18" symbol="LauncherIcon"/>
+<entry field="true" id="20" symbol="LauncherIcon"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
@@ -154,61 +159,64 @@
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="10" object="true" symbol="MovingAvgDatafieldApp"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="21" method="true" symbol="TopRightLayout"/>
+<entry id="23" method="true" symbol="TopRightLayout"/>
 <entry field="true" id="14" symbol="rolled"/>
 <entry id="8389348" symbol="font"/>
 <entry field="true" id="13" symbol="pointer"/>
 <entry id="8389347" symbol="color"/>
-<entry id="17" module="true" symbol="Layouts"/>
-<entry id="23" method="true" symbol="BottomRightLayout"/>
+<entry field="true" id="17" symbol="MVAP_FIELD_ID"/>
+<entry id="19" module="true" symbol="Layouts"/>
+<entry id="25" method="true" symbol="BottomRightLayout"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389780" module="true" symbol="FitContributor"/>
 <entry field="true" id="8388742" symbol="currentPower"/>
 <entry field="true" id="8389063" symbol="identifier"/>
-<entry id="16" module="true" symbol="Menus"/>
+<entry id="18" module="true" symbol="Menus"/>
 <entry id="8389751" method="true" symbol="onTimerLap"/>
+<entry id="8389847" symbol="mesgType"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-<entry field="true" id="24" symbol="lapreset_title"/>
+<entry field="true" id="26" symbol="lapreset_title"/>
 </symbolTable>
 <localVars>
 <entry endPc="268435501" name="dictionary" stackId="1" startPc="268435460"/>
 <entry endPc="268435517" name="color" stackId="1" startPc="268435502"/>
 <entry endPc="268435566" name="dc" stackId="1" startPc="268435517"/>
-<entry endPc="268436236" name="valueView" stackId="4" startPc="268436101"/>
-<entry endPc="268436236" name="labelView" stackId="3" startPc="268436101"/>
-<entry endPc="268436409" name="obscurityFlags" stackId="2" startPc="268435806"/>
-<entry endPc="268436410" name="dc" stackId="1" startPc="268435802"/>
-<entry endPc="268436652" name="i" stackId="5" startPc="268436604"/>
-<entry endPc="268437025" name="tempSum" stackId="4" startPc="268436464"/>
-<entry endPc="268437025" name="div" stackId="6" startPc="268436464"/>
-<entry endPc="268437034" name="power" stackId="3" startPc="268436414"/>
-<entry endPc="268437034" name="mTime" stackId="2" startPc="268436414"/>
-<entry endPc="268437035" name="info" stackId="1" startPc="268436410"/>
-<entry endPc="268437326" name="value" stackId="2" startPc="268437039"/>
-<entry endPc="268437327" name="dc" stackId="1" startPc="268437035"/>
-<entry endPc="268437355" name="state" stackId="1" startPc="268437350"/>
-<entry endPc="268437360" name="state" stackId="1" startPc="268437355"/>
-<entry endPc="268438047" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437414"/>
-<entry endPc="268438047" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268437414"/>
-<entry endPc="268438047" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268437414"/>
-<entry endPc="268438047" name="rez_cmp_local_custom_drawable_SV2X5Z28Q2II1FI4HXMF" stackId="2" startPc="268437414"/>
-<entry endPc="268438047" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268437414"/>
-<entry endPc="268438048" name="dc" stackId="1" startPc="268437402"/>
-<entry endPc="268438387" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438060"/>
-<entry endPc="268438387" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438060"/>
-<entry endPc="268438387" name="rez_cmp_local_custom_drawable_WGESQWBNR0PK8IJRA467" stackId="2" startPc="268438060"/>
-<entry endPc="268438388" name="dc" stackId="1" startPc="268438048"/>
-<entry endPc="268438727" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438400"/>
-<entry endPc="268438727" name="rez_cmp_local_custom_drawable_HWMNP9WEYQXD04NOLEZG" stackId="2" startPc="268438400"/>
-<entry endPc="268438727" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438400"/>
-<entry endPc="268438728" name="dc" stackId="1" startPc="268438388"/>
-<entry endPc="268439067" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438740"/>
-<entry endPc="268439067" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438740"/>
-<entry endPc="268439067" name="rez_cmp_local_custom_drawable_NNJ91SH7U1D8M2KRKANQ" stackId="2" startPc="268438740"/>
-<entry endPc="268439068" name="dc" stackId="1" startPc="268438728"/>
-<entry endPc="268439407" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439080"/>
-<entry endPc="268439407" name="rez_cmp_local_custom_drawable_S2D23B6HBOTZ86N5G3HA" stackId="2" startPc="268439080"/>
-<entry endPc="268439407" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439080"/>
-<entry endPc="268439408" name="dc" stackId="1" startPc="268439068"/>
+<entry endPc="268436351" name="valueView" stackId="4" startPc="268436216"/>
+<entry endPc="268436351" name="labelView" stackId="3" startPc="268436216"/>
+<entry endPc="268436524" name="obscurityFlags" stackId="2" startPc="268435921"/>
+<entry endPc="268436525" name="dc" stackId="1" startPc="268435917"/>
+<entry endPc="268436767" name="i" stackId="5" startPc="268436719"/>
+<entry endPc="268437166" name="tempSum" stackId="4" startPc="268436579"/>
+<entry endPc="268437166" name="div" stackId="6" startPc="268436579"/>
+<entry endPc="268437175" name="power" stackId="3" startPc="268436529"/>
+<entry endPc="268437175" name="mTime" stackId="2" startPc="268436529"/>
+<entry endPc="268437176" name="info" stackId="1" startPc="268436525"/>
+<entry endPc="268437467" name="value" stackId="2" startPc="268437180"/>
+<entry endPc="268437468" name="dc" stackId="1" startPc="268437176"/>
+<entry endPc="268437496" name="state" stackId="1" startPc="268437491"/>
+<entry endPc="268437501" name="state" stackId="1" startPc="268437496"/>
+<entry endPc="268438188" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437555"/>
+<entry endPc="268438188" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268437555"/>
+<entry endPc="268438188" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268437555"/>
+<entry endPc="268438188" name="rez_cmp_local_custom_drawable_IBKRV53BJ9PX9TH8KFJW" stackId="2" startPc="268437555"/>
+<entry endPc="268438188" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268437555"/>
+<entry endPc="268438189" name="dc" stackId="1" startPc="268437543"/>
+<entry endPc="268438528" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438201"/>
+<entry endPc="268438528" name="rez_cmp_local_custom_drawable_CAT6J93305DK33LOXN41" stackId="2" startPc="268438201"/>
+<entry endPc="268438528" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438201"/>
+<entry endPc="268438529" name="dc" stackId="1" startPc="268438189"/>
+<entry endPc="268438868" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438541"/>
+<entry endPc="268438868" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438541"/>
+<entry endPc="268438868" name="rez_cmp_local_custom_drawable_KO24OZV043UEOP6KGS6M" stackId="2" startPc="268438541"/>
+<entry endPc="268438869" name="dc" stackId="1" startPc="268438529"/>
+<entry endPc="268439208" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438881"/>
+<entry endPc="268439208" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438881"/>
+<entry endPc="268439208" name="rez_cmp_local_custom_drawable_LJLR1GROG9P5EX0FD9ID" stackId="2" startPc="268438881"/>
+<entry endPc="268439209" name="dc" stackId="1" startPc="268438869"/>
+<entry endPc="268439548" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439221"/>
+<entry endPc="268439548" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439221"/>
+<entry endPc="268439548" name="rez_cmp_local_custom_drawable_K0T5HU12LJA7FZY0PW13" stackId="2" startPc="268439221"/>
+<entry endPc="268439549" name="dc" stackId="1" startPc="268439209"/>
 </localVars>
 <annotations/>
 <functions>
@@ -280,13 +288,13 @@
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
 <dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
 <dataEntry offset="253" parentId="globals" symbolId="MovingAvgDatafieldView" type="class"/>
-<dataEntry offset="380" parentId="globals" symbolId="MovingAvgDatafieldApp" type="class"/>
-<dataEntry offset="451" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="530" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="569" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="600" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="631" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="662" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="733" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="396" parentId="globals" symbolId="MovingAvgDatafieldApp" type="class"/>
+<dataEntry offset="467" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="546" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="585" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="616" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="647" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="678" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="749" parentId="Rez" symbolId="Strings" type="module"/>
 </dataEntryOffsetMappings>
 </debugInfo>
