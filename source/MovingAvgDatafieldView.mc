@@ -129,7 +129,6 @@ class MovingAvgDatafieldView extends Ui.DataField {
         }
         value.setText(displayValue.format("%.0f"));
 
-        // Call parent's onUpdate(dc) to redraw the layout
         View.onUpdate(dc);
     }
 

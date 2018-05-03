@@ -83,7 +83,7 @@
 <entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="127" pc="268437204" symbol="onUpdate"/>
 <entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="128" pc="268437228" symbol="onUpdate"/>
 <entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="130" pc="268437272" symbol="onUpdate"/>
-<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="133" pc="268437306" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldView.mc" lineNum="132" pc="268437306" symbol="onUpdate"/>
 <entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="5" pc="268437327" symbol="initialize"/>
 <entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="6" pc="268437331" symbol="initialize"/>
 <entry filename="C:\\Users\\david\\git\\MovingAvgDatafield\\.\\source\\MovingAvgDatafieldApp.mc" lineNum="10" pc="268437350" symbol="onStart"/>
@@ -190,24 +190,24 @@
 <entry endPc="268438047" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437414"/>
 <entry endPc="268438047" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268437414"/>
 <entry endPc="268438047" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268437414"/>
-<entry endPc="268438047" name="rez_cmp_local_custom_drawable_RT3YC31F5T9LURX2TCXD" stackId="2" startPc="268437414"/>
+<entry endPc="268438047" name="rez_cmp_local_custom_drawable_SV2X5Z28Q2II1FI4HXMF" stackId="2" startPc="268437414"/>
 <entry endPc="268438047" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268437414"/>
 <entry endPc="268438048" name="dc" stackId="1" startPc="268437402"/>
 <entry endPc="268438387" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438060"/>
 <entry endPc="268438387" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438060"/>
-<entry endPc="268438387" name="rez_cmp_local_custom_drawable_AXQ8WVFQI557VAD1Z0G4" stackId="2" startPc="268438060"/>
+<entry endPc="268438387" name="rez_cmp_local_custom_drawable_WGESQWBNR0PK8IJRA467" stackId="2" startPc="268438060"/>
 <entry endPc="268438388" name="dc" stackId="1" startPc="268438048"/>
 <entry endPc="268438727" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438400"/>
+<entry endPc="268438727" name="rez_cmp_local_custom_drawable_HWMNP9WEYQXD04NOLEZG" stackId="2" startPc="268438400"/>
 <entry endPc="268438727" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438400"/>
-<entry endPc="268438727" name="rez_cmp_local_custom_drawable_KKDM4DVDDLS2CF9SZVG2" stackId="2" startPc="268438400"/>
 <entry endPc="268438728" name="dc" stackId="1" startPc="268438388"/>
 <entry endPc="268439067" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438740"/>
-<entry endPc="268439067" name="rez_cmp_local_custom_drawable_8SIBDGDNTJQ7FMGTCLAZ" stackId="2" startPc="268438740"/>
 <entry endPc="268439067" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438740"/>
+<entry endPc="268439067" name="rez_cmp_local_custom_drawable_NNJ91SH7U1D8M2KRKANQ" stackId="2" startPc="268438740"/>
 <entry endPc="268439068" name="dc" stackId="1" startPc="268438728"/>
 <entry endPc="268439407" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439080"/>
+<entry endPc="268439407" name="rez_cmp_local_custom_drawable_S2D23B6HBOTZ86N5G3HA" stackId="2" startPc="268439080"/>
 <entry endPc="268439407" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439080"/>
-<entry endPc="268439407" name="rez_cmp_local_custom_drawable_82HBLWNU7Y8M09A0UOR4" stackId="2" startPc="268439080"/>
 <entry endPc="268439408" name="dc" stackId="1" startPc="268439068"/>
 </localVars>
 <annotations/>
