@@ -1,5 +1,6 @@
 using Toybox.WatchUi as Ui;
 using Toybox.Graphics as Gfx;
+using Toybox.FitContributor;
 
 class MovingAvgDatafieldView extends Ui.DataField {
 
@@ -9,7 +10,10 @@ class MovingAvgDatafieldView extends Ui.DataField {
 	hidden var rolled;
 	hidden var duration;
 	hidden var resetOnLap;
-		
+	hidden var mvapField = null;
+			
+	const MVAP_FIELD_ID = 0;
+	
     function initialize() {
         DataField.initialize();
         
@@ -21,7 +25,14 @@ class MovingAvgDatafieldView extends Ui.DataField {
         pointer = 0;
         rolled = false;
         
-        
+        mvapField = createField(
+            "moving avg " +(duration),
+            MVAP_FIELD_ID,
+            FitContributor.DATA_TYPE_UINT32,
+            {:mesgType=>FitContributor.MESG_TYPE_RECORD, :units=>"B"}
+        );
+
+        mvapField.setData(0.0);
     }
 
 	function onTimerLap(){
@@ -95,6 +106,7 @@ class MovingAvgDatafieldView extends Ui.DataField {
 	                }
 	                
 	                displayValue = tempSum/div;
+	                mvapField.setData(displayValue);
 	                
 	                System.println("time: " + info.timerTime);
 	                System.println("tempsum: " + tempSum);
