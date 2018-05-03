@@ -13,13 +13,15 @@ class MovingAvgDatafieldView extends Ui.DataField {
     function initialize() {
         DataField.initialize();
         
-        duration = 240;
-        resetOnLap = true;
+        duration = Application.getApp().getProperty("duration_prop");
+        resetOnLap = Application.getApp().getProperty("lapreset_prop");
         
         rollingArray = new[duration];
         displayValue = 0;
         pointer = 0;
         rolled = false;
+        
+        
     }
 
 	function onTimerLap(){
@@ -102,6 +104,8 @@ class MovingAvgDatafieldView extends Ui.DataField {
 	                System.println("pointer: " + pointer);
 	                System.println("rolling: " + rolled);
 	                System.println("div: " + div);
+	                System.println("duration: " + duration);
+	                System.println("lapreset: " + resetOnLap);
 	                System.println("--------"); 
 	            } 
 	        }
